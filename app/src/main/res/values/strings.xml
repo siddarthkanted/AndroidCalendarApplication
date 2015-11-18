@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidCalendarApplication</string>
+    <string name="OpenCalendarSpecificEventIntent">Open Calendar Specific Event Intent</string>
+    <string name="OpenCalendarAddEventIntent">Open Calendar Add Event Intent</string>
+    <string name="hello_world">Hello world Calendar App!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_calendar_day">Calendar Day Activity</string>
+    <string name="todayCalendarEvent">Today Calendar Event</string>
+    <string name="tomorrowCalendarEvent">Tomorrow Calendar Event</string>
+</resources>
